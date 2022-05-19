@@ -3,8 +3,7 @@
 ### About Me!
 - 😄 Pronouns: she/her
 - 👩‍💻 I’m a Computer Engineering student at [FIUBA](http://www.fi.uba.ar/)
-- 🔭 I’m currently working as a software engineer at Mulesoft
-- 🌱 I’m exploring accessible mobile app development for [DALAT](https://dalatcomunidad.org/)
+- 🔭 I’m currently working as a software engineer at Lemon Cash
 - 🤔 My interest lies in back end development and learning new technologies.
 - 📫 Email me at [camilaserra5@gmail.com](mailto:camilaserra5@gmail.com).
 
