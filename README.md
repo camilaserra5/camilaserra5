@@ -25,3 +25,47 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&style=flat&logo=intellij-idea&logoColor=eb355e)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+### 🗂️ Highlight Projects
+
+<table >
+<tr>
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaserra5&repo=TpFinalTaller&theme=highcontrast)](https://github.com/camilaserra5/TpFinalTaller)
+
+  
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaserra5&repo=7506-organizacion-de-datos&theme=highcontrast)](https://github.com/camilaserra5/7506-organizacion-de-datos)
+
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaserra5&repo=algo3-tp2j-1&theme=highcontrast)](https://github.com/camilaserra5/algo3-tp2j-1)
+
+
+</td>
+</tr>
+<tr>
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaserra5&repo=cp-cpa&theme=highcontrast)](https://github.com/camilaserra5/cp-cpa)
+
+  
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaserra5&repo=club-del-escape&theme=highcontrast)](https://github.com/camilaserra5/club-del-escape)
+
+
+</td>
+<td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camilaserra5&repo=recetas&theme=highcontrast)](https://github.com/camilaserra5/recetas)
+
+
+</td>
+</tr>
+</table>
