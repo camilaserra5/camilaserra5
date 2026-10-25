@@ -2,7 +2,7 @@
 
 ### About Me!
 - 😄 Pronouns: she/her
-- 👩‍💻 I’m a Software Engineering
+- 👩‍💻 I’m a Software Engineer
 - 🔭 I’m currently CTO & Co-Founder at vlu ===> Building the future of savings and investments 🐷
 - 📫 Email me at [cami@somosvlu.com](mailto:cami@somosvlu.com).
 
